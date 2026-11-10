@@ -6,7 +6,7 @@
 
 Analista administrativo e financeiro com mais de 4 anos de experiência em empresa multinacional (Randstad, Stefanini e Cencosud): análise financeira, controle orçamentário, compras, notas fiscais, SAP e dashboards em Power BI.
 
-Atualmente estudando e desenvolvendo projetos próprios em automação e IA. Os projetos abaixo foram criados com o Claude Code: eu defino o objetivo e as regras de negócio e valido o resultado.
+Atualmente estudando e desenvolvendo projetos próprios em automação e IA. Os projetos abaixo foram desenvolvidos com apoio do Claude Code: eu defino o objetivo e as regras de negócio, acompanho cada etapa, reviso, testo e ajusto os detalhes, e vou aprendendo e aplicando no processo.
 
 🟢 **Disponível para novas oportunidades.**
 
